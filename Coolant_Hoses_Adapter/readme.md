@@ -9,5 +9,5 @@ This folder contains the 3d cad model https://github.com/threepotMR2/OpenBAM/blo
 The bottom front hose is easily made from one of the Audi TT Hoses, the hose that works is 8L9121081A which you cut 55mm out of the middle of it and rejoin with straight coupler 28mm diameter by 65mm long.
 You will find this coupler on amazon prime etc as "28x68mm hose barb equal pipe fitting". https://www.amazon.co.uk/dp/B0DX26VK1G
 
-![Hose 1]{https://github.com/threepotMR2/OpenBAM/blob/main/Coolant_Hoses_Adapter/choppedhose.jpg}
-![Hose 2]{https://github.com/threepotMR2/OpenBAM/blob/main/Coolant_Hoses_Adapter/choppedhose2.jpg}
+![Hose 1](https://github.com/threepotMR2/OpenBAM/blob/main/Coolant_Hoses_Adapter/choppedhose.jpg)
+![Hose 2](https://github.com/threepotMR2/OpenBAM/blob/main/Coolant_Hoses_Adapter/choppedhose2.jpg)
