@@ -1,0 +1,9 @@
+This is a collection of files you will need to flash on to the ECU etc.
+
+There is a XDF Definition file that works in TunerPro free for playing with whatever tables you want - with engish translated table descriptions.
+
+A stock dump file to use as a basis.
+
+My stock power, stock injector, stock turbo - slightly modified file that deletes stuff like evap, unwanted comms stuff, bypass valve etc - and most importantly it runs on the MR2 returnless fuel system with perfect fueling stratergy.
+
+And lastly a file that runs on Bosch 550cc injectors with a slight boost in torque/power to give you a little more fun!
