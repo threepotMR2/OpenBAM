@@ -1,3 +1,5 @@
+![OpenBam Logo](https://github.com/threepotMR2/OpenBAM/blob/main/openbam.png)
+
 This is a collection of files you will need to flash on to the ECU etc.
 
 There is a XDF Definition file that works in TunerPro free for playing with whatever tables you want - with engish translated table descriptions.
@@ -18,5 +20,7 @@ Tools you will need:-
 6) VisualME7Logger = https://github.com/sbloom82/VisualME7Logger/releases/tag/v2018.07.02.28
 7) Logger memory definition file translate to english = N0906018H_Logdef_english.ECU
 
-To delete/bypass the Immo on the ME7.5 Ecu you need to modify the EEPROM Data, this is a little 8 pin chip on the back of the ECU.
+To delete/bypass the Immo on the ME7.5 Ecu you need to modify the EEPROM Data, this is a little 8 pin chip on the back of the ECU. This image shows you exactly which bytes to alter, just add 1 to the first column and deduct 1 from the last column. 
+
+![EEPROM IMMO OFF BYTES FOR ME7.5](https://github.com/threepotMR2/OpenBAM/blob/main/Flash_File_and_Def_for_ME7.5_ECU/ME7_Immo_off_eeprom_bytes.png)
 
